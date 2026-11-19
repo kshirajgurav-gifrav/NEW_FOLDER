@@ -1,4 +1,4 @@
-C Code	#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 /* Function Prototypes */
@@ -147,3 +147,4 @@ void freeMemory(int *arr)
 {
     free(arr);
 }
+
